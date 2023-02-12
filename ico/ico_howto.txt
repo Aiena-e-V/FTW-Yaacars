@@ -1,0 +1,12 @@
+1) place the ico folder in the YAACARS folder
+2) add the following lines to the end of your .pro file
+3) uncomment one of the lines by removing the leading # to choose your system/icon
+4) run qmake, rebuild
+
+#--- http://doc.qt.io/qt-5/appicon.html
+#-Windows:
+#RC_ICONS = ico/OAAE_Star_Blue_trans.png.ico
+#RC_ICONS = ico/next.png.ico
+#-Mac:
+#ICON = ico/OAAE_Star_Blue_trans.png.icns
+#ICON = ico/next.png.icns

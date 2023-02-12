@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=YAACARS
+Exec=AppRun %F
+Icon=OAAE_Star_Blue_trans
+Comment=ACARS-Client for Fly the World
+Terminal=false
